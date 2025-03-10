@@ -91,8 +91,7 @@ pip install -r requirements.txt
 ## 📝 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Image-Classification-CIFAR10-CNN.git
-   cd Image-Classification-CIFAR10-CNN
+   git clone https://github.com/shahin-halcon/CIFAR-Image-Classifier.git
    ```
 
 2. Install dependencies:
